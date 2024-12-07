@@ -1,0 +1,35 @@
+{
+    "Praline": {
+        "spd": 103,
+        "atbBoost": 15
+    },
+    "Eshir": {
+        "spd": 115,
+        "atbBoost": 15,
+        "speedBuff": true
+    },
+    "Adriana": {
+        "spd": 111,
+        "atbBoost": 0,
+        "speedBuff": true
+    },
+    "Covenant": {
+        "spd": 97
+    },
+    "Kahli": {
+        "spd": 102,
+        "speedBuff": true
+    },
+    "Mihyang": {
+        "spd": 101
+    },
+    "Miriam": {
+        "spd": 100
+    },
+    "Sonia": {
+        "spd": 119
+    },
+    "Rigna": {
+        "spd": 106
+    }
+}

@@ -13,12 +13,123 @@
         "atbBoost": 0,
         "speedBuff": true
     },
-    "Covenant": {
-        "spd": 97
+    "Draco": {
+        "spd": 106,
+        "atbBoost": 30,
+        "speedBuff": true
+    },
+    "Hongyeon": {
+        "spd": 107,
+        "atbBoost": 15
+    },
+    "Berenice": {
+        "spd": 105,
+        "atbBoost": 30,
+        "speedBuff": true
+    },
+    "Colleen": {
+        "spd": 106,
+        "atbBoost": 15
+    },
+    "Purian": {
+        "spd": 97,
+        "atbBoost": 50
+    },
+    "Orion": {
+        "spd": 106,
+        "atbBoost": 30
+    },
+    "Bastet": {
+        "spd": 99,
+        "atbBoost": 25
+    },
+    "Megan": {
+        "spd": 97,
+        "atbBoost": 20
+    },
+    "Tiana": {
+        "spd": 96,
+        "atbBoost": 30
+    },
+    "Mephisto": {
+        "spd": 104,
+        "atbBoost": 20
+    },
+    "Charlotte": {
+        "spd": 105,
+        "atbBoost": 30
+    },
+    "Bernard": {
+        "spd": 111,
+        "atbBoost": 30,
+        "speedBuff": true
+    },
+    "Kabilla": {
+        "spd": 120,
+        "atbBoost": 30
+    },
+    "Eludia": {
+        "spd": 99,
+        "atbBoost": 15
+    },
+    "Kroa": {
+        "spd": 120,
+        "atbBoost": 0,
+        "speedBuff": true
+    },
+    "Frigate": {
+        "spd": 108,
+        "atbBoost": 50
+    },
+    "Wolyung": {
+        "spd": 101,
+        "atbBoost": 20
+    },
+    "Sigrid": {
+        "spd": 103,
+        "atbBoost": 30
+    },
+    "Wayne": {
+        "spd": 110,
+        "atbBoost": 30,
+        "speedBuff": true
+    },
+    "Vigor": {
+        "spd": 115,
+        "atbBoost": 0,
+        "speedBuff": true
     },
     "Kahli": {
         "spd": 102,
+        "atbBoost": 0,
         "speedBuff": true
+    },
+    "Hraesvelg": {
+        "spd": 103,
+        "atbBoost": 0,
+        "speedBuff": true
+    },
+    "Lora": {
+        "spd": 120,
+        "atbBoost": 0,
+        "speedBuff": true
+    },
+    "Craig": {
+        "spd": 98,
+        "atbBoost": 40,
+        "speedBuff": true
+    },
+    "Mirinae": {
+        "spd": 107,
+        "atbBoost": 0,
+        "speedBuff": true
+    },
+    "Kovarci": {
+        "spd": 100,
+        "atbBoost": 20
+    },
+    "Covenant": {
+        "spd": 97
     },
     "Mihyang": {
         "spd": 101
